@@ -1,4 +1,2 @@
 # Sandy-s-house
-Using for the side project demonstration and promotion
-
-哈哈哈
+平日小專案與作品集
